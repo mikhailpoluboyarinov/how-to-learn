@@ -82,9 +82,6 @@ a {
 .description {
   display: flex;
   justify-content: center;
-}
-
-.description {
   margin: 100px auto 0;
 }
 
